@@ -1,0 +1,13 @@
+When you download the file.
+Make sure you have Xampp or Mampp or Wampp Installed. 
+if not install using this link https://www.apachefriends.org/index.html
+
+After installing xampp. 
+1. Open xampp
+Then go to htdocs folder.
+2. Copy and paste the downloaded file - role-based-system into htdocs
+3. Go to your browser and type: http:localhost/phpmyadmin
+4. When phpmyadmin opens, click on import:
+5. Select role_based_db.sql from (role-based-system) file
+6. Click Go. Your Database will be set and you are good to go.
+7.  copy and paste ( http:localhost/role-based-system ) into your browser
